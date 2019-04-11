@@ -1,4 +1,4 @@
-# 模拟微博评论simulationWeibo
+# 模拟微博评论
 
 效果如下：
 
