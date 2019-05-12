@@ -1,7 +1,7 @@
 # 模拟微博评论
 
 效果如下：
-sdsadsd
+
 ![](pic/img.gif)
 
 HTML代码：
